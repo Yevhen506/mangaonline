@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /index.html
-Host: mangaonline.ml
+Host: mangaonline.ga
+Sitemap: https://mangaonline.ga/sitemap.xml
